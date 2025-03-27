@@ -1,0 +1,5 @@
+Create a .env file in this folder ( backend ), with the follwoing:
+
+MONGO_URI= YOUR URI KEY
+RIOT_API_KEY= YOUR RIOT API KEY
+HENRIKDEV_API_KEY= YOUR HENRIKDEV API KEY 
